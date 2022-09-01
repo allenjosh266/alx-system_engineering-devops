@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --from=gerald stella hello_world
