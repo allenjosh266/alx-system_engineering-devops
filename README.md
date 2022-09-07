@@ -1,1 +1,1 @@
-LEARNING BIT BY BIT  calf
+this is about expansion in shell
